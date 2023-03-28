@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8BB5C474-0422-483D-8AD2-AE09EA811E3E}</ProjectGuid>
+    <ProjectGuid>{E80B03BA-2C4E-4987-A3F7-03200C999285}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BasicClass</RootNamespace>
-    <AssemblyName>BasicClass</AssemblyName>
+    <RootNamespace>StaticField</RootNamespace>
+    <AssemblyName>StaticField</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
