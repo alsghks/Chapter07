@@ -19,7 +19,7 @@ class ClassB
     }
 }
 
-{
+
     class MainApp
     {
         static void Main(string[] args)
